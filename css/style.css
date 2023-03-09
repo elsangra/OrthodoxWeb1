@@ -1,0 +1,208 @@
+body{
+	font-size: 16px;
+	background-color: #171a6a;
+	color: #fff;
+	font-family: 'oxygen', sans-serif;
+}
+
+/*Top*/
+#nav{
+ 	background-color: #171a6a;
+ }
+ #span{
+ 	margin: 10px;
+ 	color: #516c65;
+ 	font-size: .1.1em;
+ }
+#top {
+	background-color: #171a6a;
+}
+#top li{
+	list-style: none;
+	margin-left: 70px;
+}
+#top a {
+	align-items: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+}
+#top a i {
+	padding: 2px 8px 0 0;
+}
+#top a:hover {
+	color: #df2532;
+}
+#log{
+	margin-left: 20px;
+}
+#logo-img{
+	background-image: url(../images/lo.jpg) ;
+	width: 185px;
+	height: 120px;
+	margin: 10px 15px 10px 0px;
+}
+#title{
+	text-align: center;
+}
+/*End Top*/
+
+/*Content*/
+	/*picture*/
+.container .jumbotron{
+	margin-top: 30px;
+	padding: 0;
+	box-shadow: 0 0 50px #3f0c1f;
+	border: 2px solid #3f0c1f;
+}
+
+header{
+padding:5px;
+
+}
+.headerimg{
+width:1250px;
+height:500px;
+background-color:#fff;
+margin-top:8px;
+
+}
+
+.headerimg #image{
+	position:absolute; 
+}
+#image span{
+	font-size: 1.6em;
+	position: relative;
+	bottom: 110px;
+	left: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+	/*End Picture*/
+
+	/*courses*/
+#courses{
+	width:1240px;
+	height:900px;
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #e72c1b;
+	border-top: 0;
+}
+
+#offered{
+	background-color: #fff;
+	color: #000;
+}
+#offered h3{
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+}
+#departments span{
+	background-color: #a8201d;
+	color: #f9a411;
+	font-weight: bold;
+	padding: 8px;
+	font-size: 1em;
+}
+#departments ul{
+	margin: 5px 0 5px 0;
+}
+#departments li{
+	font-size: 16px;
+	font-weight: bold;
+}
+.noticeboard{
+	background-color: #fff;
+	color: #000;
+	height: 400px;
+}
+.map{
+	background-color: #fff;
+	color: #000;
+	height: 340px;
+	margin-top: 10px;
+	position: relative;
+	border: 2px solid #3f0c1f;
+	overflow: hidden;
+}
+.map span{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.6em;
+	text-transform: uppercase;
+	background-color: #000;
+	color: #fff;
+	opacity: .8;
+}
+.hostel{
+	text-align: center;
+	font-weight: bold;
+	background-color: #1b2095;
+	color: #f6eb1b;
+	width: 80%;
+	margin-top: 10px;
+	margin-left: 15px;
+	padding: 5px;
+	border-radius: 50px;
+}
+.intakes{
+	background-color: #1b2095;
+	color: #f6eb1b;
+	width: 100%;
+	text-align: center;
+}
+.intakes P{
+	color: #ffffff;
+	font-size: 1.1em;
+}
+
+
+	/*End Courses*/
+/*End Content*/
+
+/*Login*/
+.login{
+	width: 400px;
+	background-color: #ffffff;
+  	box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+  	margin: 100px auto;
+}
+
+/*End Login*/
+
+/*Footer*/
+.panel-footer{
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+.panel-footer div.row {
+	margin-bottom: 35px;
+}
+#media, #address, #location{
+	line-height: 2;
+}  
+#media>span, #address>span, #location>span{
+	font-size: 1.3em;
+	color: #ec2125;
+}
+#location{
+	font-style: italic;
+}
+#location p:nth-child(2){
+	margin-top: 25px;
+}
+
+/* END FOOTER */
+
+
+/*End Footer*/
