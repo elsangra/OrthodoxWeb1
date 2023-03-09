@@ -74,7 +74,7 @@
 		<div id="title">
 			<h3>ORTHODOX ARCHDIOCESE OF NAIROBI</h3>
 		  	<h1>ORTHODOX COLLEGE OF AFRICA & TTC</h1>
-		  	<h3>EDUCATION & SERVICE</h3>
+		  	<h3>EDUCATION & SERVICE </h3>
 		</div>
 		
 	</nav>
